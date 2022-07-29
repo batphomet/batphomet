@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @batphomet
 - 👀 I’m interested in video game development!!!
-- 🌱 I’m currently learning PIXEL aRT
-- 📫 How to reach me - https://puddingpuddles.gitlab.io/mywebbie/ | TG @thepancakewitch
+- 🌱 I’m currently learning more Unity
+- 📫 How to reach me - https://thepancakewitch.neocities.org/ | TG @thepancakewitch
 
 <!---
 batphomet/batphomet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
